@@ -8,6 +8,7 @@
 ## Programming Language I use
 * C# (Mainly)
 * Python
+* Typescript (a bit)
 * Kotlin (Learning)
 * Java (after i knew about C#, this is absolutely bad af)
 ## Currently Working On
